@@ -1,2 +1,9 @@
-
-/* Your CSS Code here. */
+/* Use this class on any element you want styled with the given properties */
+.questions {
+  background-color: #f8fffe;
+  height: 50px;
+  margin-top: 20px;
+  padding: 15px;
+  max-width: 600px;
+  border-left: 8px solid #008B00; /* green4 ≈ #008B00 *//* ensures padding doesn't increase set height/width */
+}
